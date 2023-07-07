@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.elconguyenvuong.pocketrunner.app-mergeReleaseResources-25:/layout/activity_main.xml",
+        "source": "com.elconguyenvuong.pocketrunner.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.elconguyenvuong.pocketrunner.app-mergeReleaseResources-25:/layout/build_info.xml",
+        "source": "com.elconguyenvuong.pocketrunner.app-main-27:/layout/build_info.xml"
+    },
+    {
+        "merged": "com.elconguyenvuong.pocketrunner.app-mergeReleaseResources-25:/layout/fragment_settings.xml",
+        "source": "com.elconguyenvuong.pocketrunner.app-main-27:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.elconguyenvuong.pocketrunner.app-mergeReleaseResources-25:/layout/download.xml",
+        "source": "com.elconguyenvuong.pocketrunner.app-main-27:/layout/download.xml"
+    },
+    {
+        "merged": "com.elconguyenvuong.pocketrunner.app-mergeReleaseResources-25:/layout/fragment_server.xml",
+        "source": "com.elconguyenvuong.pocketrunner.app-main-27:/layout/fragment_server.xml"
+    },
+    {
+        "merged": "com.elconguyenvuong.pocketrunner.app-mergeReleaseResources-25:/layout/fragment_console.xml",
+        "source": "com.elconguyenvuong.pocketrunner.app-main-27:/layout/fragment_console.xml"
+    },
+    {
+        "merged": "com.elconguyenvuong.pocketrunner.app-mergeReleaseResources-25:/layout/activity_launcher.xml",
+        "source": "com.elconguyenvuong.pocketrunner.app-main-27:/layout/activity_launcher.xml"
+    }
+]

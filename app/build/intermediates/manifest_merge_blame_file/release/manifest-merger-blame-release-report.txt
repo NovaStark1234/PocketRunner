@@ -1,0 +1,113 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.elconguyenvuong.pocketrunner"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+8-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:5:5-81
+11-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:6:5-80
+12-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:7:5-67
+13-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:7:22-64
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:8:5-76
+14-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:8:22-73
+15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+15-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:9:5-77
+15-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:9:22-74
+16
+17    <application
+17-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:11:5-44:19
+18        android:name="com.elconguyenvuong.pocketrunner.App"
+18-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:12:9-28
+19        android:allowBackup="false"
+19-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:13:9-36
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.8.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/35f4a948deebfe6e56a5492680c1f66f/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher"
+22-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:14:9-43
+23        android:label="@string/app_name"
+23-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:15:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:16:9-54
+25        android:supportsRtl="true"
+25-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:17:9-35
+26        android:theme="@style/AppTheme" >
+26-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:18:9-40
+27        <activity
+27-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:19:9-25:20
+28            android:name="com.elconguyenvuong.pocketrunner.activity.LauncherActivity"
+28-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:19:19-60
+29            android:exported="false"
+29-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:19:61-85
+30            android:theme="@style/AppTheme.NoActionBar" >
+30-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:19:86-129
+31            <intent-filter>
+31-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:20:13-24:29
+32                <action android:name="android.intent.action.VIEW" />
+32-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:21:17-69
+32-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:21:25-66
+33                <action android:name="android.intent.action.MAIN" />
+33-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:22:17-69
+33-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:22:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:23:17-77
+35-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:23:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity
+38-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:27:9-31:20
+39            android:name="com.elconguyenvuong.pocketrunner.activity.IntroActivity"
+39-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:27:19-57
+40            android:exported="false"
+40-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:27:58-82
+41            android:theme="@style/AppTheme.NoActionBar" >
+41-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:27:83-126
+42            <intent-filter>
+42-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:28:13-30:29
+43                <action android:name="android.intent.action.VIEW" />
+43-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:21:17-69
+43-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:21:25-66
+44            </intent-filter>
+45        </activity>
+46        <activity
+46-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:33:9-37:20
+47            android:name="com.elconguyenvuong.pocketrunner.activity.home.MainActivity"
+47-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:33:19-61
+48            android:configChanges="uiMode"
+48-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:33:87-117
+49            android:exported="false" >
+49-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:33:62-86
+50            <intent-filter>
+50-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:28:13-30:29
+51                <action android:name="android.intent.action.VIEW" />
+51-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:21:17-69
+51-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:21:25-66
+52            </intent-filter>
+53        </activity>
+54
+55        <service
+55-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:39:9-43:39
+56            android:name="com.elconguyenvuong.pocketrunner.ServerService"
+56-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:40:13-42
+57            android:exported="false"
+57-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:43:13-37
+58            android:icon="@mipmap/ic_launcher"
+58-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:41:13-47
+59            android:label="@string/app_name" />
+59-->/storage/emulated/0/AndroidIDEProjects/PocketRunner/app/src/main/AndroidManifest.xml:42:13-45
+60    </application>
+61
+62</manifest>

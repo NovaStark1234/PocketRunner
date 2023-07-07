@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-mergeDebugResources-25:/layout/build_info.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-main-28:/layout/build_info.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-mergeDebugResources-25:/layout/activity_launcher.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-main-28:/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-mergeDebugResources-25:/layout/activity_main.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-mergeDebugResources-25:/layout/fragment_console.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-main-28:/layout/fragment_console.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-mergeDebugResources-25:/layout/files_list_view.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-main-28:/layout/files_list_view.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-mergeDebugResources-25:/layout/fragment_server.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-main-28:/layout/fragment_server.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-mergeDebugResources-25:/layout/download.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-main-28:/layout/download.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-mergeDebugResources-25:/layout/activity_splash_screen.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-main-28:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-mergeDebugResources-25:/layout/fragment_files.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-main-28:/layout/fragment_files.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-mergeDebugResources-25:/layout/fragment_settings.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.elconguyenvuong.pocketrunner.app-main-28:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.elconguyenvuong.pocketrunner.app-mergeDebugResources-25:/layout/fragment_server.xml",
+        "source": "com.elconguyenvuong.pocketrunner.app-main-28:/layout/fragment_server.xml"
+    }
+]
